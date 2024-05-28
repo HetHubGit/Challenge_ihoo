@@ -1,5 +1,4 @@
-﻿using Challenge_ihoo_tests;
-namespace Challenge_ihoo
+﻿namespace Challenge_ihoo
 {
     public class User
     {

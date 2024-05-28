@@ -1,3 +1,4 @@
+using Challenge_ihoo;
 namespace Challenge_ihoo_tests
 {
     public class Tests

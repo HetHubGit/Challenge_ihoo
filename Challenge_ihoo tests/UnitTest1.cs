@@ -3,7 +3,7 @@ namespace Challenge_ihoo_tests
 {
     public class Tests
     {
-
+        [Test]
         public void TestingUserLogin()
         {
             // arrange

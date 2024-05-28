@@ -1,7 +1,7 @@
 ﻿using Challenge_ihoo_tests;
 namespace Challenge_ihoo
 {
-    internal class User
+    public class User
     {
         private List<int> score = new List<int>();
         public User(String login, String password)

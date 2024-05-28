@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="Challenge_ihoo tests\Challenge_ihoo tests.csproj" />
-  </ItemGroup>
-
 </Project>
